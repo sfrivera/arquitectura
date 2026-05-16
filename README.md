@@ -1,2 +1,2 @@
  Arquitectura
-Diagramas de arquitectura en Mermeaid (.mmdc) .
+Diagramas de arquitectura en Mermaid (.mmdc) .
